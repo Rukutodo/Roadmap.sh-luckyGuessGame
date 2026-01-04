@@ -53,12 +53,13 @@ This approach keeps the core learning goals intact (input handling, loops, condi
 
 ### Installation
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/Rukutodo/Roadmap.sh-luckyGuessGame.git
-2. cd cli-numberGuessingGame
-3. npm install
-4. node index.js
+   cd cli-numberGuessingGame
+   npm install
+   node index.js
+```
 
 ## Sample Output
 
