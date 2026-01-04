@@ -76,7 +76,8 @@ Too low!
 Guess 2: 89
 Too high!
 ```
-##🧠 Game Logic
+---
+## 🧠 Game Logic
 
 Random number is chosen between 1 and 100
 
@@ -87,16 +88,16 @@ Input is validated to ensure numeric guesses
 Feedback is given after each guess
 
 Game ends on success or when chances are exhausted
-
-##🛠️ Tech Used
+---
+## 🛠️ Tech Used
 
 Node.js
 
 JavaScript
 
 readline module for CLI interaction
-
-##📫 Contributing
+---
+## 📫 Contributing
 
 Ideas for extension:
 
