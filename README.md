@@ -62,7 +62,7 @@ This approach keeps the core learning goals intact (input handling, loops, condi
 ```
 
 ## Sample Output
-
+```
 Welcome to the Number Guessing Game
 
 What should I call you?: Venu
@@ -75,7 +75,7 @@ Guess 1: 57
 Too low!
 Guess 2: 89
 Too high!
-
+```
 ##🧠 Game Logic
 
 Random number is chosen between 1 and 100
